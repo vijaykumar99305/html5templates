@@ -1,0 +1,45 @@
+
+body{background-color: lightgrey;
+     height: 80%;
+     font-size: 20;
+ }
+#header {
+    height: 10%;
+    background-color: yellow;
+    padding-top: 2%;
+}
+footer{
+    height: 10%;
+    width: 100%;
+    background-color: yellow;
+    float: left;
+}
+#main-section{
+    background-color: floralwhite;
+}
+#left{
+    background-color: red;
+    width: 33.33%;
+    min-height: 95%;
+    float: left;
+}
+#center{
+    background-color: green;
+    width: 33.33%;
+    min-height: 95%;
+    float: left;
+}
+#right{
+    background-color: blue;
+    width: 33.33%;
+    min-height: 95%;
+    float: right;
+}
+#menu{
+    min-height: 5%;
+    background-color: chocolate;
+}
+td{
+    padding-right: 6px;
+    padding-left: 6px;
+}
